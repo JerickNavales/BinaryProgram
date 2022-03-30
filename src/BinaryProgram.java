@@ -5,8 +5,15 @@ public class BinaryProgram {
 		/******************************************************************
 		 * Program 1: Conversion from binary to decimal representation
 		 * Programmer:
+		 * 				Jerick Navales
+						Angelyn E. Calonia
+						JudyRose  D. Godilo
+						Rio Fortin Fuellas
+						Eden Mae Palacio
+						Bryan Gobris
+		 * 				
 		 * 
-		 * Class: IT 121        Instructor: 
+		 * Class: IT 121        Instructor: John Mark D. Gabrentina
 		 *        
 		 * Pledge: I have neither given nor received unauthorized aid
 		 * on this program.     (signature on file)
