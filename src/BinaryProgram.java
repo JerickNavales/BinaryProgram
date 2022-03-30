@@ -4,7 +4,7 @@ public class BinaryProgram {
 	public static void main(String[] args) {
 		/******************************************************************
 		 * Program 1: Conversion from binary to decimal representation
-		 * Programmer: Write your name here
+		 * Programmer:
 		 * 
 		 * Class: IT 121        Instructor: 
 		 *        
